@@ -1,49 +1,49 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: Responsible for the forwarding or messages or packets
-ab=
+ab= 3
 # Question 'ac': Which layer best fits this statement: De-duplicates received packets
-ac=
+ac= 3
 # Question 'ad': Which layer best fits this statement: Responsible for synchronising multiple media streams, such as audio and video in a video conference
-ad=
+ad= 5
 # Question 'ae': Which layer best fits this statement: Establishes the relationship between a network device and transmission medium
-ae=
+ae= 1
 # Question 'af': Which layer best fits this statement: Allows the checkpointing of activity in a network connection
-af=
+af= 5
 # Question 'ag': Which layer best fits this statement: Responsible for the correct conversion of character encodings in a session
-ag=
+ag= 6
 # Question 'ah': Which layer best fits this statement: Responsible for multiplexing multiple connections to a given node on the network
-ah=
+ah= 4
 # Question 'ai': Which layer best fits this statement: Responsible for routing packets among networks
-ai=
+ai= 3
 # Question 'aj': Which layer best fits this statement: Corrects errors that occur at the physical layer
-aj=
+aj= 2
 # Question 'ak': Which layer best fits this statement: Responsible for logical addresses of senders and receivers on a local network segment.
-ak=
+ak= 3
 # Question 'al': Which layer best fits this statement: Responsible for selecting the best path between nodes
-al=
+al= 3
 # Question 'am': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
-am=
+am= 3
 # Question 'an': Which layer best fits this statement: Provides galvanic isolation between nodes on a network
-an=
+an= 1 
 # Question 'ao': Which layer best fits this statement: Corrects the order of received packets, if they are received out of order
-ao=
+ao= 4 
 # Question 'ap': Which layer best fits this statement: Allows data to be delivered over a variety of underlying network types
-ap=
+ap= 2
 # Question 'aq': Which layer best fits this statement: Responsible for electromagnetic compatibility
-aq=
+aq= 1
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: 9P (protocol) (9P)
-ar=
+ar= 4
 # Question 'as': To which layer does this protocol correspond?: Transaction Capabilities Application Part (TCAP)
-as=
+as= 4
 # Question 'at': To which layer does this protocol correspond?: Cisco Discovery Protocol (CDP)
-at=
+at= 2
 # Question 'au': To which layer does this protocol correspond?: L2TP
-au=
+au= 5
 # Question 'av': To which layer does this protocol correspond?: User Datagram Protocol
-av=
+av= 4
 # Question 'aw': To which layer does this protocol correspond?: Point-to-point tunneling protocol (PPTP)
-aw=
+aw= 
 # Question 'ax': To which layer does this protocol correspond?: Infrared
 ax=
 # Question 'ay': To which layer does this protocol correspond?: Media Access Control (MAC)
