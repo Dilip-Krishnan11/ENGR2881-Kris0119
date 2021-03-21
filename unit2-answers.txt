@@ -1,0 +1,51 @@
+## Socket Programming General True or False Statements
+# Question 'ab': True or false: The read() function for the C programming language can be used to receive data from sockets.
+ab=
+# Question 'ac': True or false: The accept() function for the C programming language changes a network socket that is waiting for network connections into an active connection.
+ac=
+# Question 'ad': True or false: Socket programming refers to programming the sockets that accept network cables on network switches
+ad=
+# Question 'ae': True or false: A network socket usually contains addressing information for layer 3, but not layer 4
+ae=
+# Question 'af': True or false: The listen() function for the C programming language can limit how many connections a server can have queued.
+af=
+# Question 'ag': True or false: A network socket includes port numbers as well as IP addresses
+ag=
+# Question 'ah': True or false: The close() function for the C programming language cannot be called on connection-less sockets.
+ah=
+# Question 'ai': True or false: The write() function for the C programming language can result in a `broken pipe' condition.
+ai=
+# Question 'aj': True or false: The close() function for the C programming language closes a server's socket and all open connections created by that socket.
+aj=
+# Question 'ak': True or false: The socket() function for the C programming language requires a network address, to be able to create a socket.
+ak=
+# Question 'al': True or false: The send() function for the C programming language allows setting the destination address when writing to connection-less sockets.
+al=
+# Question 'am': True or false: The write() function for the C programming language can be used to write data to a socket.
+am=
+# Question 'an': True or false: The socket() function for the C programming language can create sockets for various network protocols.
+an=
+# Question 'ao': True or false: The accept() function for the C programming language accepts all waiting network sockets each time it is called.
+ao=
+# Question 'ap': True or false: The send() function for the C programming language can be used to write out-of-band data to a socket.
+ap=
+## Correct the lines in the supplied programme
+aq=
+ar=
+as=
+at=
+au=
+av=
+aw=
+ax=
+ay=
+az=
+ba=
+bb=
+bc=
+## Correct the lines in the supplied programme
+bd=
+be=
+bf=
+bg=
+bh=
