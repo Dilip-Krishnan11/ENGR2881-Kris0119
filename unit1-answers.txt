@@ -33,39 +33,39 @@ ap= 2
 aq= 1
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: 9P (protocol) (9P)
-ar= 4
+ar= 5
 # Question 'as': To which layer does this protocol correspond?: Transaction Capabilities Application Part (TCAP)
-as= 4
+as= 7
 # Question 'at': To which layer does this protocol correspond?: Cisco Discovery Protocol (CDP)
 at= 2
 # Question 'au': To which layer does this protocol correspond?: L2TP
-au= 5
+au= 2
 # Question 'av': To which layer does this protocol correspond?: User Datagram Protocol
 av= 4
 # Question 'aw': To which layer does this protocol correspond?: Point-to-point tunneling protocol (PPTP)
-aw= 
+aw= 5
 # Question 'ax': To which layer does this protocol correspond?: Infrared
-ax=
+ax= 1
 # Question 'ay': To which layer does this protocol correspond?: Media Access Control (MAC)
-ay=
+ay= 2
 # Question 'az': To which layer does this protocol correspond?: ARINC 818
-az=
+az= 1
 # Question 'ba': To which layer does this protocol correspond?: Challenge-Handshake Authentication Protocol (CHAP)
-ba=
+ba= 2
 # Question 'bb': To which layer does this protocol correspond?: Resilient Packet Ring (RPR)
-bb=
+bb= 2
 # Question 'bc': To which layer does this protocol correspond?: Etherloop
-bc=
+bc= 1
 # Question 'bd': To which layer does this protocol correspond?: IMAP
-bd=
+bd= 7
 # Question 'be': To which layer does this protocol correspond?: Address Resolution Protocol (ARP)
-be=
+be= 2
 # Question 'bf': To which layer does this protocol correspond?: modems
-bf=
+bf= 1
 # Question 'bg': To which layer does this protocol correspond?: 100BASE-TX
-bg=
+bg= 1
 # Question 'bh': Can applications on nodes 0 and 4 communicate?
-bh=
+bh= 
 # Question 'bi': If an application on node 4 sends 507 bytes of byte, how large would the PDU be at layer 4?
 bi=
 # Question 'bj': What is the data rate that is possible between nodes 4 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
