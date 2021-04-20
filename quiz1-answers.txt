@@ -1,151 +1,151 @@
 ## Quiz #1: Chapters 1 to 3
 # Question 'ab': True or false: CRCs are a common technique for correcting transmission errors
-ab=
+ab=f
 # Question 'ac': True or false: Wavelength refers to the distance between adjacent maxima or minima of a wave
-ac=
+ac=f
 # Question 'ad': True or false: One of the ways that Bluetooth reduces power consumption is through allowing slave devices to communicate directly with each other, without requiring re-transmission through the master device
-ad=
+ad=f
 # Question 'ae': True or false: For long-distance oceanic internet cable links minimising the bandwidth delay product is a primary goal
-ae=
+ae=f
 # Question 'af': True or false: Terminators are added to an Ethernet to increase the maximum size of the Ethernet
-af=
+af=f
 # Question 'ag': True or false: State transition diagrams are similar to phase diagrams in their use in designing network protocols
-ag=
+ag=t
 # Question 'ah': True or false: DDCMP (Digital Data Communications Protocol) is a byte-oriented framing protocol
-ah=
+ah=t
 # Question 'ai': True or false: PF\_INTERNET, PF\_UNIX and PF\_PACKET are three different protocol families in the socket API
-ai=
+ai=f
 # Question 'aj': True or false: The 802.11 distribution system avoids the needs for any access point to have a wired connection
-aj=
+aj=f
 # Question 'ak': True or false: DSL and fibre-to-the-home connections have overlapping speed ranges
-ak=
+ak=t
 # Question 'al': True or false: The recv() function is used to receive data or a message over a socket
-al=
+al=t
 # Question 'am': True or false: Variation in latency is not important, as long as the average latency remains unchanged
-am=
+am=f
 # Question 'an': True or false: Bluetooth WiMAX are well known wireless technologies
-an=
+an=t
 # Question 'ao': True or false: Wi-Fi is defined in the 802.11 standard
-ao=
+ao=t
 # Question 'ap': True or false: In 802.11, if both DS bits are set to 1, this means that the frame was first sent to a different access point, before being forwarded to a client
-ap=
+ap=t
 # Question 'aq': True or false: To start a server using the socket API the socket(), bind(), listen() and accept() functions must be called
-aq=
+aq=t
 # Question 'ar': True or false: The network layer is responsible for network framing
-ar=
+ar=f
 # Question 'as': True or false: In 802.11, if a client receives a beacon from an access point with a stronger signal, it will send a probe frame to determine if it can switch to that access point.
-as=
+as=f
 # Question 'at': True or false: NRZ is the method for encoding binary signals on computer networks
-at=
+at=t
 # Question 'au': True or false: To connect two switches together a router must be placed between them
-au=
+au=f
 # Question 'av': True or false: The application layer standardises common types of exchanges
-av=
+av=t
 # Question 'aw': True or false: Request and Reply are the two most common types of communications channel
-aw=
+aw=f
 # Question 'ax': True or false: If an Ethernet is busy, a node will a frame to send will wait until the line goes idle, and then transmit it immediately
-ax=
+ax=t
 # Question 'ay': True or false: In a connectionless network, a virtual-circuit between the source and destination host must first be established, before data can be sent between them
-ay=
+ay=t
 # Question 'az': True or false: Receivers using the Sliding Window Protocol must keep track of the receiving window size, largest acceptable frame and last frame received
-az=
+az=t
 # Question 'ba': True or false: 4B/5B encoding solves the problem of sending consecutive 1s or 0s
-ba=
+ba=t
 # Question 'bb': True or false: In an internet protocol graph application protocols appear at the top, and the networks at the bottom
-bb=
+bb=t
 # Question 'bc': True or false: Ethernet is available in a range of speeds
-bc=
+bc=t
 # Question 'bd': True or false: BISYNC's sentinel characters are used to synchronise the start of a frame
-bd=
+bd=f
 # Question 'be': True or false: In an Ad-hoc wireless network messages may be forwarded via several nodes to reach their destination
-be=
+be=t
 # Question 'bf': True or false: If a layered network model offers multiple different abstractions for one layer, it must also offer alternative abstractions for all layers higher in the network stack
-bf=
+bf=f
 # Question 'bg': True or false: The Internet Architecture, like the OSI model, uses strict layering
-bg=
+bg=f
 # Question 'bh': True or false: In 802.11, a client may attempt to connect to a different access point while retaining its current connection to another access point
-bh=
+bh=t
 # Question 'bi': True or false: The listen() function is called by a server each time it wishes to listen for a new connection
-bi=
+bi=t
 # Question 'bj': True or false: Multiplexing is a method for sharing a link
-bj=
+bj=t
 # Question 'bk': True or false: No more than four devices can be connected to each Ethernet repeater, before an additional repeater is required
-bk=
+bk=f
 # Question 'bl': True or false: When multiple packets are sent on a virtual circuit network to the same destination, they will be sent via the first virtual circuit that has space
-bl=
+bl=t
 # Question 'bm': True or false: Broadcast Ethernet frames use a special preamble code consisting of all 1s, so that every device on the Ethernet knows to listen
-bm=
+bm=t
 # Question 'bn': True or false: Switches can implement either datagram or virtual circuit approaches
-bn=
+bn=t
 # Question 'bo': True or false: The stop-and-wait protocol requires the use of sequence numbers to handle lost or delayed acknowledgements
-bo=
+bo=t
 # Question 'bp': True or false: Switches combine the partial destination address of a packet with other information to make switching and forwarding decisions
-bp=
+bp=f
 # Question 'bq': True or false: HDLC uses a sequence of exactly five consecutive 1s to indicate the end of a frame
-bq=
+bq=f
 # Question 'br': True or false: The connect() function is used by a client to connect to a server
-br=
+br=t
 # Question 'bs': True or false: For a host to request a virtual circuit to be established, it is also required that the network administrator configures the virtual circuit
-bs=
+bs=f
 # Question 'bt': True or false: NRZI changes the signal every time a 1 is encoded
-bt=
+bt=t
 # Question 'bu': True or false: An Application Programmer is responsible for specifying the needs of their applications
-bu=
+bu=t
 # Question 'bv': True or false: It is the network adaptors that enable nodes to exchange frames
-bv=
+bv=t
 # Question 'bw': True or false: Only if the sequence number less than the Largest Acceptable Frame it will be accepted
-bw=
+bw=f
 # Question 'bx': True or false: Ethernet is the most successful local area networking technology over recent decades
-bx=
+bx=t
 # Question 'by': True or false: 802.11 frames normally contain four address fields
-by=
+by=t
 # Question 'bz': True or false: LAN, MAN, WAN and SAN are all acronyms for types of networks
-bz=
+bz=t
 # Question 'ca': True or false: When using the Sliding Window Protocol, the sender has to be willing to buffer up to LFS (Last Frame Sent) frames
-ca=
+ca=f
 # Question 'cb': True or false: There are several CRC generator polynomials for CRCs that have become commonly used international standards
-cb=
+cb=t
 # Question 'cc': True or false: Ethernet networks are permitted to have up to 1,024 hosts
-cc=
+cc=t
 # Question 'cd': True or false: Cloud Networking is a catch-all for parts of the network that you do not control
-cd=
+cd=f
 # Question 'ce': True or false: Each time an Ethernet adaptor tries to transmit but fails, it waits a random multiple of 51.2 micro seconds, where the maximum multiple increases with the number of failed transmission attempts
-ce=
+ce=t
 # Question 'cf': True or false: The most effective transmission error detection schemes are those that use the least number of additional bits
-cf=
+cf=f
 # Question 'cg': True or false: The network API provides the syntax by which network services can be accessed
-cg=
+cg=t
 # Question 'ch': True or false: Every Ethernet frame must be at least 512 bytes long
-ch=
+ch=t
 # Question 'ci': True or false: The Last Acknowledgement Received plus the Sliding Window Size must be no larger than the Last Frame Sent
-ci=
+ci=f
 # Question 'cj': True or false: The use of acknowledgements and timeouts together is often called Automatic inteRrupt reQuest (ARQ)
-cj=
+cj=f
 # Question 'ck': True or false: When a message is delayed, but eventually delivered, this is not a network reliability problem, but only a performance problem
-ck=
+ck=t
 # Question 'cl': True or false: Manchester encoding makes it easier to synchronise the signal, without increasing the bandwidth required to carry the signal
-cl=
+cl=f
 # Question 'cm': True or false: It is possible for the aggregate throughput through a switch to be many times the maximum bandwidth of each of its ports
-cm=
+cm=f
 # Question 'cn': True or false: A single request to fetch a URL involves sending a single request packet and receiving a response packet in response
-cn=
+cn=f
 # Question 'co': True or false: A license from an agency like the FCC is required to use any frequency in any frequency band
-co=
+co=f
 # Question 'cp': True or false: 5G networks trade off latency to obtain higher speeds compared with earlier cellular networks
-cp=
+cp=f
 # Question 'cq': True or false: A switch is connected to a set of links, which do not need to use the same data link protocol
-cq=
+cq=f
 # Question 'cr': True or false: An advantage of NRZ encoding is that it does not require precise synchronisation
-cr=
+cr=f
 # Question 'cs': True or false: Protocols define the interface between layers in a network stack
-cs=
+cs=t
 # Question 'ct': True or false: 4B/5B encoding allows the encoding of control signals using spare valid 5-bit sequences
-ct=
+ct=t
 # Question 'cu': True or false: In 10Base2, the 2 refers to the speed, i.e., 2Mbit/sec
-cu=
+cu=f
 # Question 'cv': True or false: A switch is a multi-input multi-output device which transfers packets from an input to one or more outputs
-cv=
+cv=t
 # Question 'cw': True or false: Error correction codes are always preferable to error detection codes, because they avoid the need to re-transmit frames that contain errors
-cw=
+cw=f
 # Question 'cx': True or false: Satellite communications typically use similar frequencies to terrestrial microwave communications
-cx=
+cx=t
