@@ -146,11 +146,11 @@ ct=3451
 cu=449
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
-cv=
+cv= One reliability issue that could arise could be on network infrastructure. Due to the rapid increase in technological innovation, more and more users are connected to multipile networks in various ways [wired and wireless] and on various devices [PC, laptop and mobiles]. Hence, the pressure on existing network infrastructures have never been higher, thus an old or outdated infrastrucutre can struggle to keep up with the demand. While it is unlikely to find any outdated infrastrcutures in a modern suburb or city, rural or less developed areas are often plauged with this issue and as a result, the networks there are unrelaible and slow. This issue affects all layers and can be resolved by developing a better infrastructure or updating an existing one to support the new demands for the network.
 # Question 'cw': Reliability Challenge #1
-cw=
+cw= Another issue is congestion, in a similar sense as the previous issue, the increasing data demands of the general population means that homes, buisnesses and even public places need to cater to a multitude of people utilising a network at any given time. Hence, bandwith and network speeds become crucial to maintain and ensure that there is enough bandwidth for everyone on a given network to complete their task in reasonable amount of time. If demand does exceed supply, this can result in a congested network that makes it increasingly difficult to operate on, hence being unreliable. This issue mainly arises on the network layer as data can be routed more intelligantly by using different protocols, but it can also be resolved by increasing the bandwidth available from the physical layer or changing the network topology and hardware. 
 # Question 'cx': Reliability Challenge #2
-cx=
+cx= Another reliability issue would be network coverage, specifically wireless network coverage, hence this is another problem that arises on the physical layer. A large part of data consumption in the modern world is done through wireless networks, hence ensuring that a wirless link is consistent and stable through an area is crucial to ensure reliability. As it is difficult to trace the physical path of a wireless link, general principles can be applied such as ensuring that any path is not blocked by any significant obstacle such as thick walls or other impassable mediums; as well as, ensuring that any dead spots or low coverage points within the network are attended to through a network extender/repeater. 
 # Question 'cy': Reliability Challenge #3
 cy=
 # Question 'cz': Reliability Challenge #4
