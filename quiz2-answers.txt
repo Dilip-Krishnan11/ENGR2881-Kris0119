@@ -1,0 +1,151 @@
+## Quiz #2: Chapters 4 to 6
+# Question 'ab': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 2.6Mbit/sec full
+ab=
+# Question 'ac': True or false: Key network resources to be allocated include the bandwidth of links and processing power of the connected computers
+ac=
+# Question 'ad': True or false: Border Gateways exchange route and path information between Autonomous Systems
+ad=
+# Question 'ae': True or false: The acknowledgement field of the TCP header only requires inspection if the ACK flag is set
+ae=
+# Question 'af': True or false: The TCP sequence number field is at byte offset 4 in the TCP header
+af=
+# Question 'ag': True or false: Transport protocols often have to contend with electromagnetic interference flipping bits in packets
+ag=
+# Question 'ah': True or false: The TSpec of a Flowspec describes a network flow's traffic characteristcs
+ah=
+# Question 'ai': True or false: Congestion Collapse was implemented in TCP to improve network performance
+ai=
+# Question 'aj': True or false: The advertised window field in the TCP header could be extended by several bits without messing up the sliding window protocol
+aj=
+# Question 'ak': True or false: UDP provides a simple demultiplexer to support end-to-end communications
+ak=
+# Question 'al': True or false: The peak power of a network typically occurs well below the maximum load the network can handle
+al=
+# Question 'am': True or false: Congestion control and resource allocation are two challenges that must each be separately solved by each network
+am=
+# Question 'an': True or false: IPv6's 128-bit addresses are four times longer than IPv4's address, and thus allow 4x more IP addresses than IPv4, thus avoiding the risk of IP address exhaustion
+an=
+# Question 'ao': True or false: Quality-of-Service implies that some packets will be treated differently to others
+ao=
+# Question 'ap': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
+ap=
+# Question 'aq': True or false: Source specific multicast avoids the need for including the source IP address in multicasting forwarding tables
+aq=
+# Question 'ar': True or false: TCP uses a three-way handshake when establishing a connection
+ar=
+# Question 'as': True or false: Some real-time applications can tolerate lost packets better than others
+as=
+# Question 'at': True or false: UDP allows the multiplexing of traffic from multiple applications on a single host
+at=
+# Question 'au': True or false: Multicast forwarding table collectively specify a set of paths
+au=
+# Question 'av': True or false: The packets exchanged by TCP peers are called segments
+av=
+# Question 'aw': True or false: An example of one-to-many multicast would be online multi-player games
+aw=
+# Question 'ax': True or false: Internet routing is largely divided based on intra-AS and inter-AS routing
+ax=
+# Question 'ay': True or false: Network flows are streams of related packets that flow through a given Autonomous System
+ay=
+# Question 'az': True or false: The DEC Bit is a mechanism for Congestion Avoidance that works by setting a congestion indication bit in packets when network queues grow, thus allowing senders to actively avoid congestion
+az=
+# Question 'ba': True or false: Merriton's Algorithm is typically used to solve the fairness of resource allocation in networks
+ba=
+# Question 'bb': True or false: Silly Window Syndrome occurs when a TCP implementation sends many very small segments, instead of waiting to collect enough data to fill a larger segment
+bb=
+# Question 'bc': True or false: TCP must be able to handle widely varying Round-Trip Times on networks
+bc=
+# Question 'bd': True or false: In a feedback-based system, a host simply begins sending data and responds to feed-back of some kind, to modulate its rate of sending
+bd=
+# Question 'be': True or false: The TCP Slow Start algorithm is triggered if the TCP sliding window is exhausted, and a collected ACK advances the sliding window, thus allowing data to again begin to be sent
+be=
+# Question 'bf': True or false: Border Gateway Protocol advertises partial paths that can be assembled to create complete paths to reach given Autonomous Systems
+bf=
+# Question 'bg': True or false: "Integrated Services" is a coarse-grained quality-of-service approach
+bg=
+# Question 'bh': True or false: Mobile IP requires the use of tunnels or care-of addresses to deliver packets to mobile nodes
+bh=
+# Question 'bi': True or false: Controlled Load Service in RSVP means that the network should control the volume of packets of that service that are admitted to the network
+bi=
+# Question 'bj': True or false: Jain's Fairness Index is a commonly used approach to assess the fairness of a congestion control algorithm
+bj=
+# Question 'bk': True or false: The original TCP retransmission timeout algorithm cannot reliably discern between the reception of the initial transmission or retransmission of a TCP segment
+bk=
+# Question 'bl': True or false: Allocating network resources with sufficient precision to avoid congestion is the most common approach to congestion avoidance
+bl=
+# Question 'bm': True or false: Whenever the loss of a packet is detected, the TCP congestion control protocol will subtract one packet from the congestion window size, until it receives the next acknowledgement
+bm=
+# Question 'bn': True or false: Border Gateway Protocol speakers can cancel previously advertised paths
+bn=
+# Question 'bo': True or false: Local traffic is traffic that terminates or originates in an Autonomous System
+bo=
+# Question 'bp': True or false: Reverse Path Broadcast is used to propagate the return path for two-way multicast traffic
+bp=
+# Question 'bq': True or false: TCP will typically send a segment when it has the number of bytes required to fill a packet, the application has specifically requested it, or a timeout has occurred
+bq=
+# Question 'br': True or false: Source-based Congestion Avoidance algorithms use the RTT exclusively to determine whether to adjust the congestion window
+br=
+# Question 'bs': True or false: IPv6 addresses are not allocated on a geographic basis, because IPv6 offers enough addresses that this is not necessary
+bs=
+# Question 'bt': True or false: A network flow is an end-to-end abstraction that helps routers to manage network congestion
+bt=
+# Question 'bu': True or false: Differentiated Services typically uses a label in a packet header to identify the traffic class
+bu=
+# Question 'bv': True or false: The TCP Slow Start algorithm runs at the start of a connection, until the first packet loss occurs
+bv=
+# Question 'bw': True or false: Inter-domain routing exists to find optimal routes among the many supplied paths between destinations
+bw=
+# Question 'bx': True or false: The DEC Bit with a queue length of 1 is used to attempt to optimise the throughput of the network
+bx=
+# Question 'by': True or false: TCP Fast Retransmit works by reducing the TCP retransmission timeout
+by=
+# Question 'bz': True or false: Routing Areas allow groups of backbone routers to be defined
+bz=
+# Question 'ca': True or false: Care-of addresses can be used to help avoid inefficient routing to mobile devices
+ca=
+# Question 'cb': True or false: All transport protocols ensure messages are delivered in the same order they were sent
+cb=
+# Question 'cc': True or false: Randomised Early Detection (RED) is a congestion avoidance algorithm, similar to DECBit
+cc=
+# Question 'cd': True or false: Multicast allows a sender to send only one packet, and have it be received my multiple recipients
+cd=
+# Question 'ce': True or false: BGP calculates globally comparable path costs between nodes, even when the path crosses many Autonomous Systems
+ce=
+# Question 'cf': True or false: The advertised window of a TCP connection should be at least double the bandwidth-delay product of the network path to maximise network throughput
+cf=
+# Question 'cg': True or false: RSVP can be used for unicast, while RSVM is used for multicast flows
+cg=
+# Question 'ch': True or false: Cloud services are resulting in the creation of many new network functions, such as multicast and traffic engineering
+ch=
+# Question 'ci': True or false: Multiple priority queues in FIFO queuing are typically used to ensure that an equal number of packets from each queue are sent per unit time
+ci=
+# Question 'cj': True or false: As a byte-oriented protocol, TCP sends one byte at a time
+cj=
+# Question 'ck': True or false: Network resource allocation can be either router-centric or host-centric, or both
+ck=
+# Question 'cl': True or false: Multi-Protocol Label Switching was used for reliable delivery prior to the wide adoption of virtual circuits as a solution
+cl=
+# Question 'cm': True or false: Resource negotiation is a characteristic of all transport protocols
+cm=
+# Question 'cn': True or false: Source-based Congestion Avoidance watch for some sign of growing queue lengths in the network path
+cn=
+# Question 'co': True or false: Multicast Listener Discover is used to signal the intent to join or leave a multicast group on IPv6
+co=
+# Question 'cp': True or false: The maximum number of unacknowledged bytes in a TCP connection is the minimum of the Advertised Window and Congestion Window
+cp=
+# Question 'cq': True or false: Network Address Translation is used to avoid exhaustion of Autonomous System numbers
+cq=
+# Question 'cr': True or false: A host can be in only one multicast group at a time
+cr=
+# Question 'cs': True or false: TCP offers more services than UDP
+cs=
+# Question 'ct': True or false: The large-scale structure of the Internet consists of Autonomous Systems (AS)
+ct=
+# Question 'cu': True or false: Multi-provider Internet topologies typically involve peering points
+cu=
+# Question 'cv': True or false: It is common for backbone providers to interconnect with each other at a single peering point
+cv=
+# Question 'cw': True or false: FIFO and FCFS are two different approaches to packet queuing
+cw=
+# Question 'cx': True or false: The power of a network is often expresses as the delay divided by the throughput
+cx=
