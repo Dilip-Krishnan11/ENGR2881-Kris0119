@@ -1,6 +1,6 @@
 unit1 PROVISIONAL GRADE: F
 
-NOTE: Changes made after Thu May 20 19:12:42 2021 +0930 have not yet been graded.
+NOTE: Changes made after Thu May 27 16:45:53 2021 +0930 have not yet been graded.
 
 SUMMARY: 10 true/false and yes/no questions: 10 correct, 0 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
@@ -13,8 +13,16 @@ ANSWERS GRADED P:
 ANSWERS GRADED CR:
 ANSWERS GRADED DN:
 ANSWERS GRADED HD:
-ANSWERS GRADED INCOMPLETE: cv cw cx cy cz da db
-ANSWERS GRADED TOOLONG:
+ANSWERS GRADED INCOMPLETE: cy cz da db
+ANSWERS GRADED TOOLONG: cv cw cx
 
 NOTE: You have one or more answers classified as 'INCOMPLETE', which means 'Incomplete.'
       This means that you have one or more questions that you have not yet answered.
+
+NOTE: You have one or more answers classified as 'TOOLONG', which means that they are too long.
+      Short-answer questions should be written on a single line in your unitX-answers.txt files, and must not
+         exceed 512 characters in length. This limit applies to all answers that do not have BEGIN:xx and END:xx lines
+         supplied for you in the unitX-answers.txt file.
+      Long-answer questions can be written spanning multiple lines between the BEGIN:xx and END:xx lines in your
+         unitX-answers.txt files, but must not exceed 2,500 characters in total.
+      Please reduce the length of the indicated answers.
