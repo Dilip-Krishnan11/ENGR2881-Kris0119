@@ -1,38 +1,38 @@
 ## Quiz #2: Chapters 4 to 6
 # Question 'ab': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 2.6Mbit/sec full
-ab=
+ab=t
 # Question 'ac': True or false: Key network resources to be allocated include the bandwidth of links and processing power of the connected computers
-ac=
+ac=f
 # Question 'ad': True or false: Border Gateways exchange route and path information between Autonomous Systems
-ad=
+ad=t
 # Question 'ae': True or false: The acknowledgement field of the TCP header only requires inspection if the ACK flag is set
-ae=
+ae=t
 # Question 'af': True or false: The TCP sequence number field is at byte offset 4 in the TCP header
-af=
+af=f
 # Question 'ag': True or false: Transport protocols often have to contend with electromagnetic interference flipping bits in packets
-ag=
+ag=f
 # Question 'ah': True or false: The TSpec of a Flowspec describes a network flow's traffic characteristcs
-ah=
+ah=t
 # Question 'ai': True or false: Congestion Collapse was implemented in TCP to improve network performance
-ai=
+ai=f
 # Question 'aj': True or false: The advertised window field in the TCP header could be extended by several bits without messing up the sliding window protocol
-aj=
+aj=f
 # Question 'ak': True or false: UDP provides a simple demultiplexer to support end-to-end communications
-ak=
+ak=t
 # Question 'al': True or false: The peak power of a network typically occurs well below the maximum load the network can handle
-al=
+al=t
 # Question 'am': True or false: Congestion control and resource allocation are two challenges that must each be separately solved by each network
-am=
+am=f
 # Question 'an': True or false: IPv6's 128-bit addresses are four times longer than IPv4's address, and thus allow 4x more IP addresses than IPv4, thus avoiding the risk of IP address exhaustion
-an=
+an=t
 # Question 'ao': True or false: Quality-of-Service implies that some packets will be treated differently to others
-ao=
+ao=t
 # Question 'ap': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
-ap=
+ap=f
 # Question 'aq': True or false: Source specific multicast avoids the need for including the source IP address in multicasting forwarding tables
 aq=
 # Question 'ar': True or false: TCP uses a three-way handshake when establishing a connection
-ar=
+ar=t
 # Question 'as': True or false: Some real-time applications can tolerate lost packets better than others
 as=
 # Question 'at': True or false: UDP allows the multiplexing of traffic from multiple applications on a single host
