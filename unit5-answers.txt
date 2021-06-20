@@ -420,22 +420,22 @@ dm=
 ## Write statements that are true or false for various lecture slides.
 dn=
 # Question 'do': Write a false statement about the content of Slide 139 of Chapter 2
-do=
+do=A piconet can have multiple masters and slaves
 # Question 'dp': Write a false statement about the content of Slide 43 of Chapter 1
-dp=
+dp=Bandwidth is the length of the frequency band as it illustrates the number of bits per second that can be transmitted over the network to keep that link full
 # Question 'dq': Write a true statement about the content of Slide 10 of Chapter 5
-dq=
+dq= UPDs message queue help add a level of demultiplexing that allows multiple application process on each host to share the network
 # Question 'dr': Write a true statement about the content of Slide 15 of Chapter 7
-dr=
+dr=A stud is a piece of code that implements argument marshalling and usually used to support RPC. They convert a message back into a set of variables that can be used as arguments
 # Question 'ds': Write a false statement about the content of Slide 34 of Chapter 6
-ds=
+ds=The time when a router finishes transmitting a packet is calculated by taking the min of the time when the packet arrives at a router and adding it to the length of the packet
 # Question 'dt': Write a false statement about the content of Slide 96 of Chapter 9
-dt=
+dt=THe idea of a CDN is to geographically localise a collectionof server surrogates such that each server can share the load locally when a flash crowd occurs
 # Question 'du': Write a true statement about the content of Slide 125 of Chapter 6
-du=
+du=Traffic enginerring is another tool that is used to manage resource usage and congestion
 # Question 'dv': Write a true statement about the content of Slide 49 of Chapter 6
-dv=
+dv=Slow start increased the size of the congestion window by a power of 2 after each successful cycle
 # Question 'dw': Write a false statement about the content of Slide 46 of Chapter 3
-dw=
+dw=A bridge can learn which ports various host reside automatically regardless of the network topology
 # Question 'dx': Write a true statement about the content of Slide 91 of Chapter 2
-dx=
+dx=To ensure every ethernet address is different, each ethernet device manufacturer is allocated a different prefix that is prepended to the address of each adapter they build
