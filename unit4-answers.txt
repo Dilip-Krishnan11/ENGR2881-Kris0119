@@ -1,13 +1,16 @@
 ## Demonstrate an understanding of current methods for secure information transfer}
 # Question 'ab': Write not more than 250 words about 'cryptographic hash functions and vulnerabilities (eg MD5 and successors)'
 BEGIN:ab
+A cryptographic hash function is a mathematical algorithm that maps data to a bit array, thus encrypting it. This has many information-security applications, especially in the area of digital signatures, various forms of authentication and verification or it can be used to identify files or data.  There are several different functions with some including MD5, SHA-1 and BLAKE. These functions are outdated as they are not considered as robust due to their specific vulnerabilities. Vulnerabilities include failing to be pre-image, second preimage and collision resistant. Pre-image resistance makes it to figure out the specific hash used to encrypt the data, with second preimage resistance meaning that it is difficult to find a second input that is combined with a hash such that it equals the original hashed function. Hence, weakness in these areas make the hash function vulnerable to pre-image attacks. Collision resistance is similar to second preimage resistance; however it entails those two different messages when hashed should not be equal. Weakness in this area make the function weak to collision attacks which was the case for MD5, where collision attacks could calculate the hash within seconds making this function unusable. While security can sometimes be compromised by the use of an outdated hash function, cryptographic hashes can add large amounts of security as the random nature of these encrypted functions allow for the safe exchange and storage of information without revealing the contents and other security based applications.
 END:ab
 # Question 'ac': Write not more than 250 words about 'political/commercial impacts on digital security'
 BEGIN:ac
+The modern world is comprised of several digital platforms that constantly obtain, store, and use our personal information. From personal details to bank information, the sensitivity of information stored digitally has never been higher, hence the need for stronger digital security has never been greater. A large impact on digital security has been the need to securely store data, whilst still retaining its usability especially in commercial applications where several websites have access to bank details and other personal information. This is accomplished in several different ways, but a popular method is to protect data that is in transit using SSL and for any data that will need to be stored another form of encryption is added such as a cryptographic hash function. Another commercial impact on digital security comes from the increase in free software provided by companies such as Google or Facebook. While these companies see to offer these services for free, the people using them are paying for it with their personal information. In these cases, information about a general target audience is collected and sold. Facebook particularly has collected and sold enough information to correctly assess your personality type. Hence, digital security services such as VPNs are being more widely adopted in order to counter these websites tracking your personal information by encrypting internet traffic, hence making it more difficult for third parties to track your online activities and steal data.
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+In November 1995, SSL V2 was replaced by SSL V3 due serious security issues. Created by Netscape, SSL stands for Secure Sockets Layer, a cryptographical protocol that aimed to provide secure communication using classical TCP sockets. Using this protocol, all connects were established with a handshake between the client and server which would provide both the client and server an encryption key in the form of a digital certificate that is used to cipher the flow of information. This encryption would prevent any snoopers from directly accessing any transmitted information as they would have to decrypt it first which is another separate issue. Unfortunately, SSL v3 is not used anymore as in 2014, it was proven to be vulnerable to a POODLE attack and can be exploited to steal confidential information. While most modern web browsers have moved away from this outdated protocol and onto more secure options such as TLS 1.3, around 0.3% of web browsers still use SSL v3 to process information transactions which makes them vulnerable to POODLE attacks. 
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
@@ -15,20 +18,20 @@ ae=
 # Question 'af': Write a false statement about the content of Slide 88 of Chapter 3
 af=
 # Question 'ag': Write a true statement about the content of Slide 3 of Chapter 4
-ag=
+ag=Chapter 4 discusses the global internet which is comprised of several different providers
 # Question 'ah': Write a false statement about the content of Slide 41 of Chapter 4
-ah=
+ah=MSDP is not used in protocol independent multicasting, rather it is used in inter-domain multicasting
 # Question 'ai': Write a false statement about the content of Slide 3 of Chapter 1
 ai=
 # Question 'aj': Write a true statement about the content of Slide 33 of Chapter 4
-aj=
+aj=IP's original many-to-many multicast did not already included the functionality for a one-to-many multicast
 # Question 'ak': Write a true statement about the content of Slide 20 of Chapter 4
-ak=
+ak=Routers run iBGP and an intradomain routing protocol, with some others running further protocols in order to integrate interdomain and intradomain routing
 # Question 'al': Write a false statement about the content of Slide 48 of Chapter 5
 al=
 # Question 'am': Write a false statement about the content of Slide 4 of Chapter 5
 am=
 # Question 'an': Write a true statement about the content of Slide 37 of Chapter 4
-an=
+an=Each router already knows that the shortest path to the source S goes through router N in distance vector multicasting
 # Question 'ao': Write a false statement about the content of Slide 35 of Chapter 2
 ao=
