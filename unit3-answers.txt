@@ -152,24 +152,24 @@ BEGIN:cm
 END:cm
 ## Write statements that are true or false for various lecture slides.
 # Question 'cn': Do you grant your following quiz questions to the public domain?
-cn=
+cn=y
 # Question 'co': Write a false statement about the content of Slide 54 of Chapter 3
-co=
+co=For the spanning tree algorithm, each bridge initally thinks it is a branch so its sends a configuration message identifying itself as a branch
 # Question 'cp': Write a true statement about the content of Slide 27 of Chapter 1
-cp=
+cp=Internet Architecture is defined by IETF which implys non-strict layering, an hour-glass shape and protocol specification and representative implementations of said specification prior to offical introduction of any new protocols
 # Question 'cq': Write a false statement about the content of Slide 47 of Chapter 1
-cq=
+cq=Importance of bandwith and latency depends upon the application as seen in the difference between large file transfers and small messages, the former requires latency while the latter requires bandwidth
 # Question 'cr': Write a true statement about the content of Slide 28 of Chapter 4
-cr=
+cr=IPv4 is not an integral part of IPv6 as it does not use tunneling unlike IPv4
 # Question 'cs': Write a true statement about the content of Slide 116 of Chapter 3
-cs=
+cs=The algorithm employed during shortest path routing invovles two lists, a confirmed and tenative. The confirmed list is added to as the cost of each hop to the next node is calculated and moving any unknown neighbours of the next node to the tenative list.
 # Question 'ct': Write a false statement about the content of Slide 35 of Chapter 4
-ct=
+ct=Multicast forwarding tables are the same as unicast forward tables as they collectively specify a set of paths or trees
 # Question 'cu': Write a false statement about the content of Slide 19 of Chapter 3
-cu=
+cu=Switching and forwarding is a single stage process or either connection setup or data transfer depending upon the state of the network
 # Question 'cv': Write a true statement about the content of Slide 11 of Chapter 1
-cv=
+cv=Demutiplexing and multiplexing is a technique utlised to share a link between multiple nodes at the same time
 # Question 'cw': Write a true statement about the content of Slide 83 of Chapter 2
-cw=
+cw=A repeater is a device that forwards digital signals and can join multiple ethernet segements
 # Question 'cx': Write a false statement about the content of Slide 99 of Chapter 2
-cx=
+cx=Node distance is not relevant in transmission times for an Ethernet network, if two nodes are far apart the length of time required to sent and recieve frames is the same as if they were next to each other
