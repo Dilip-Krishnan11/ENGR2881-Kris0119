@@ -1,18 +1,18 @@
 unit4 PROVISIONAL GRADE: F
 
-NOTE: Changes made after Sun Jul 4 08:56:39 2021 +0930 have not yet been graded.
+NOTE: Changes made after Sun Jul 4 10:12:28 2021 +0930 have not yet been graded.
 
 SUMMARY: 0 true/false and yes/no questions: 0 correct, 0 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          1 normal questions, 1 correct.
-         13 long-form questions, grade distribution: Ix0 Fx1 Px0 CRx0 DNx1 HDx0
+         13 long-form questions, grade distribution: Ix0 Fx1 Px0 CRx0 DNx1 HDx1
 
-ANSWERS GRADED UNMARKED:  ab ac ad ah ai aj ak al am an ao
+ANSWERS GRADED UNMARKED:  ab ac ad ah ai ak al am an ao
 ANSWERS GRADED F:  af
 ANSWERS GRADED P: 
 ANSWERS GRADED CR:
 ANSWERS GRADED DN: ag
-ANSWERS GRADED HD:
+ANSWERS GRADED HD: aj
 ANSWERS GRADED INCOMPLETE:
 ANSWERS GRADED TOOLONG:
 
